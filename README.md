@@ -21,5 +21,7 @@ And then import the javascript in `app/assets/stylesheets/application.scss`:
 //= require regex_field
 ```
 
+If you work with the `bootstrap_form` gem, you can refer to this [open issue](https://github.com/bootstrap-ruby/rails-bootstrap-forms/issues/356) to enable Bootstrap layout on the regex field.
+
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
