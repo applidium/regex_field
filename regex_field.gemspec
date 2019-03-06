@@ -1,4 +1,4 @@
-require 'regex_field/version'
+require File.expand_path('lib/regex_field/version', __dir__)
 
 Gem::Specification.new do |s|
   s.name        = 'regex_field'
